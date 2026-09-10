@@ -4,7 +4,7 @@
 
 Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
-![taste-skill](https://repo.x-cmd.io/taste-skill.svg)
+![taste-skill](https://repo.x-cmd.io/taste-skill.svg?lang=zh)
 
 ## 安装
 
@@ -20,19 +20,19 @@ x install taste-skill
 
 ## 流行度
 
-- **Star**: 85,803 · **Fork**: 5,866 · **开放 issue**: 44 · **贡献者**: 7
+- **Star**: 85,974 · **Fork**: 5,870 · **开放 issue**: 44 · **贡献者**: 7
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 15 · **开放 PR**: 31 · **已关闭 issue**: 13 · **开放 issue**: 31 · **提交数**: 154
+- **发布数**: 0 · **已合并 PR**: 15 · **开放 PR**: 32 · **已关闭 issue**: 13 · **开放 issue**: 31 · **提交数**: 154
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 7 | 5 | 1 | 5 | 10 |
-| 90d | 2026-06-12 | 0 | 9 | 20 | 1 | 18 | 47 |
-| 360d | 2025-09-15 | 0 | 15 | 31 | 13 | 31 | 146 |
+| 30d | 2026-08-11 | 0 | 7 | 6 | 1 | 5 | 10 |
+| 90d | 2026-06-12 | 0 | 9 | 21 | 1 | 18 | 47 |
+| 360d | 2025-09-15 | 0 | 15 | 32 | 13 | 31 | 146 |
 
 ## 代码规模
 
@@ -55,4 +55,4 @@ taste-skill 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:32:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:19:21Z._

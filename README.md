@@ -20,19 +20,19 @@ x install taste-skill
 
 ## Popularity
 
-- **Stars**: 85,803 · **Forks**: 5,866 · **Open issues**: 44 · **Contributors**: 7
+- **Stars**: 85,974 · **Forks**: 5,870 · **Open issues**: 44 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 15 · **Open PRs**: 31 · **Closed issues**: 13 · **Open issues**: 31 · **Commits**: 154
+- **Releases**: 0 · **Merged PRs**: 15 · **Open PRs**: 32 · **Closed issues**: 13 · **Open issues**: 31 · **Commits**: 154
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 7 | 5 | 1 | 5 | 10 |
-| 90d | 2026-06-12 | 0 | 9 | 20 | 1 | 18 | 47 |
-| 360d | 2025-09-15 | 0 | 15 | 31 | 13 | 31 | 146 |
+| 30d | 2026-08-11 | 0 | 7 | 6 | 1 | 5 | 10 |
+| 90d | 2026-06-12 | 0 | 9 | 21 | 1 | 18 | 47 |
+| 360d | 2025-09-15 | 0 | 15 | 32 | 13 | 31 | 146 |
 
 ## Code size
 
@@ -51,8 +51,8 @@ Total: **429** lines of code across **42** files in the top 5 languages.
 Install metadata for taste-skill lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `taste-skill` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/taste-skill.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/taste-skill.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:32:17Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:21Z._
