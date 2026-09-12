@@ -32,7 +32,7 @@ Total: **429** lines of code across **42** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 86,262 · **Forks**: 5,887 · **Open issues**: 44 · **Contributors**: 7
+- **Stars**: 86,343 · **Forks**: 5,890 · **Open issues**: 44 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -42,12 +42,12 @@ Total: **429** lines of code across **42** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 7 | 6 | 1 | 4 | 10 |
-| last60d | 2026-07-13 | 0 | 9 | 9 | 1 | 9 | 20 |
-| 90d | 2026-06-13 | 0 | 9 | 21 | 1 | 18 | 47 |
-| last180d | 2026-03-15 | 0 | 15 | 32 | 12 | 31 | 109 |
-| 360d | 2025-09-16 | 0 | 15 | 32 | 13 | 31 | 146 |
-| last720d | 2024-09-21 | 0 | 15 | 32 | 13 | 31 | 154 |
+| 30d | 2026-08-13 | 0 | 7 | 6 | 1 | 4 | 10 |
+| last60d | 2026-07-14 | 0 | 9 | 8 | 1 | 8 | 20 |
+| 90d | 2026-06-14 | 0 | 9 | 21 | 1 | 18 | 47 |
+| last180d | 2026-03-16 | 0 | 15 | 31 | 12 | 31 | 109 |
+| 360d | 2025-09-17 | 0 | 15 | 32 | 13 | 31 | 146 |
+| last720d | 2024-09-22 | 0 | 15 | 32 | 13 | 31 | 154 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for taste-skill lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:33:05Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:50:20Z._
