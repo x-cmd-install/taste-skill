@@ -4,7 +4,7 @@
 
 Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
-[![x-cmd/install — taste-skill Code Quality Monitoring Repo Card](https://repo.x-cmd.io/taste-skill.svg)](https://x-cmd.com/install/taste-skill)
+[![x-cmd/install — taste-skill Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/taste-skill.svg)](https://x-cmd.com/install/taste-skill)
 
 ## Install
 
@@ -21,7 +21,7 @@ Total: **429** lines of code across **42** files in the top 5 languages.
 | JavaScript | 311 | 0 | 63 | 4 |
 | Svg | 97 | 0 | 0 | 8 |
 | Sh | 21 | 2 | 2 | 1 |
-| Markdown | 0 | 5,766 | 1,575 | 28 |
+| Markdown | 0 | 5,763 | 1,575 | 28 |
 | Text | 0 | 13 | 0 | 1 |
 
 ## Source
@@ -32,22 +32,22 @@ Total: **429** lines of code across **42** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 89,100 · **Forks**: 6,068 · **Open issues**: 51 · **Contributors**: 7
+- **Stars**: 89,362 · **Forks**: 6,078 · **Open issues**: 51 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 17 · **Open PRs**: 33 · **Closed issues**: 14 · **Open issues**: 37 · **Commits**: 161
+- **Releases**: 0 · **Merged PRs**: 18 · **Open PRs**: 33 · **Closed issues**: 14 · **Open issues**: 37 · **Commits**: 163
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 6 | 2 | 8 | 5 |
-| last60d | 2026-07-24 | 0 | 9 | 7 | 2 | 12 | 15 |
-| 90d | 2026-06-24 | 0 | 11 | 18 | 2 | 23 | 28 |
-| last180d | 2026-03-26 | 0 | 17 | 32 | 13 | 37 | 99 |
-| 360d | 2025-09-27 | 0 | 17 | 33 | 14 | 37 | 151 |
-| last720d | 2024-10-02 | 0 | 17 | 33 | 14 | 37 | 161 |
+| 30d | 2026-08-24 | 0 | 3 | 6 | 2 | 7 | 6 |
+| last60d | 2026-07-25 | 0 | 10 | 7 | 2 | 12 | 16 |
+| 90d | 2026-06-25 | 0 | 12 | 17 | 2 | 22 | 29 |
+| last180d | 2026-03-27 | 0 | 18 | 32 | 13 | 37 | 100 |
+| 360d | 2025-09-28 | 0 | 18 | 33 | 14 | 37 | 152 |
+| last720d | 2024-10-03 | 0 | 18 | 33 | 14 | 37 | 163 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for taste-skill lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:50:18Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:49:50Z._

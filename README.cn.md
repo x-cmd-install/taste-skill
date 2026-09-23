@@ -4,7 +4,7 @@
 
 Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
-[![x-cmd/install — taste-skill Code Quality Monitoring Repo Card](https://repo.x-cmd.io/taste-skill.svg?lang=zh)](https://x-cmd.com/install/taste-skill)
+[![x-cmd/install — taste-skill Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/taste-skill.svg?lang=zh)](https://x-cmd.com/install/taste-skill)
 
 ## 安装
 
@@ -21,7 +21,7 @@ x install taste-skill
 | JavaScript | 311 | 0 | 63 | 4 |
 | Svg | 97 | 0 | 0 | 8 |
 | Sh | 21 | 2 | 2 | 1 |
-| Markdown | 0 | 5,766 | 1,575 | 28 |
+| Markdown | 0 | 5,763 | 1,575 | 28 |
 | Text | 0 | 13 | 0 | 1 |
 
 ## 源代码
@@ -32,22 +32,22 @@ x install taste-skill
 
 ## 流行度
 
-- **Star**: 89,100 · **Fork**: 6,068 · **开放 issue**: 51 · **贡献者**: 7
+- **Star**: 89,362 · **Fork**: 6,078 · **开放 issue**: 51 · **贡献者**: 7
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 17 · **开放 PR**: 33 · **已关闭 issue**: 14 · **开放 issue**: 37 · **提交数**: 161
+- **发布数**: 0 · **已合并 PR**: 18 · **开放 PR**: 33 · **已关闭 issue**: 14 · **开放 issue**: 37 · **提交数**: 163
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 6 | 2 | 8 | 5 |
-| last60d | 2026-07-24 | 0 | 9 | 7 | 2 | 12 | 15 |
-| 90d | 2026-06-24 | 0 | 11 | 18 | 2 | 23 | 28 |
-| last180d | 2026-03-26 | 0 | 17 | 32 | 13 | 37 | 99 |
-| 360d | 2025-09-27 | 0 | 17 | 33 | 14 | 37 | 151 |
-| last720d | 2024-10-02 | 0 | 17 | 33 | 14 | 37 | 161 |
+| 30d | 2026-08-24 | 0 | 3 | 6 | 2 | 7 | 6 |
+| last60d | 2026-07-25 | 0 | 10 | 7 | 2 | 12 | 16 |
+| 90d | 2026-06-25 | 0 | 12 | 17 | 2 | 22 | 29 |
+| last180d | 2026-03-27 | 0 | 18 | 32 | 13 | 37 | 100 |
+| 360d | 2025-09-28 | 0 | 18 | 33 | 14 | 37 | 152 |
+| last720d | 2024-10-03 | 0 | 18 | 33 | 14 | 37 | 163 |
 
 ## 改进这些数据
 
@@ -58,4 +58,4 @@ taste-skill 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:50:18Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:49:50Z._
