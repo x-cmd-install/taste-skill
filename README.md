@@ -21,7 +21,7 @@ Total: **429** lines of code across **42** files in the top 5 languages.
 | JavaScript | 311 | 0 | 63 | 4 |
 | Svg | 97 | 0 | 0 | 8 |
 | Sh | 21 | 2 | 2 | 1 |
-| Markdown | 0 | 5,763 | 1,575 | 28 |
+| Markdown | 0 | 5,764 | 1,575 | 28 |
 | Text | 0 | 13 | 0 | 1 |
 
 ## Source
@@ -32,22 +32,22 @@ Total: **429** lines of code across **42** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 90,175 · **Forks**: 6,143 · **Open issues**: 51 · **Contributors**: 7
+- **Stars**: 90,416 · **Forks**: 6,155 · **Open issues**: 51 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 19 · **Open PRs**: 34 · **Closed issues**: 14 · **Open issues**: 37 · **Commits**: 165
+- **Releases**: 0 · **Merged PRs**: 20 · **Open PRs**: 34 · **Closed issues**: 14 · **Open issues**: 37 · **Commits**: 167
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 4 | 6 | 1 | 7 | 7 |
-| last60d | 2026-07-28 | 0 | 11 | 8 | 2 | 12 | 17 |
-| 90d | 2026-06-28 | 0 | 13 | 17 | 2 | 22 | 30 |
-| last180d | 2026-03-30 | 0 | 19 | 33 | 13 | 37 | 101 |
-| 360d | 2025-10-01 | 0 | 19 | 34 | 14 | 37 | 153 |
-| last720d | 2024-10-06 | 0 | 19 | 34 | 14 | 37 | 165 |
+| 30d | 2026-08-28 | 0 | 5 | 6 | 1 | 7 | 8 |
+| last60d | 2026-07-29 | 0 | 12 | 8 | 2 | 12 | 18 |
+| 90d | 2026-06-29 | 0 | 14 | 16 | 2 | 22 | 31 |
+| last180d | 2026-03-31 | 0 | 20 | 33 | 13 | 37 | 102 |
+| 360d | 2025-10-02 | 0 | 20 | 34 | 14 | 37 | 154 |
+| last720d | 2024-10-07 | 0 | 20 | 34 | 14 | 37 | 167 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for taste-skill lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:50:10Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:15:04Z._
