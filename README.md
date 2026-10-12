@@ -14,14 +14,14 @@ x install taste-skill
 
 ## Code insight
 
-Total: **429** lines of code across **42** files in the top 5 languages.
+Total: **647** lines of code across **44** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 311 | 0 | 63 | 4 |
+| Sh | 239 | 22 | 48 | 3 |
 | Svg | 97 | 0 | 0 | 8 |
-| Sh | 21 | 2 | 2 | 1 |
-| Markdown | 0 | 5,764 | 1,574 | 28 |
+| Markdown | 0 | 5,805 | 1,596 | 28 |
 | Text | 0 | 13 | 0 | 1 |
 
 ## Source
@@ -32,22 +32,22 @@ Total: **429** lines of code across **42** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 94,479 · **Forks**: 6,426 · **Open issues**: 52 · **Contributors**: 7
+- **Stars**: 94,823 · **Forks**: 6,457 · **Open issues**: 52 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 24 · **Open PRs**: 41 · **Closed issues**: 14 · **Open issues**: 38 · **Commits**: 175
+- **Releases**: 0 · **Merged PRs**: 36 · **Open PRs**: 2 · **Closed issues**: 48 · **Open issues**: 4 · **Commits**: 204
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 9 | 10 | 1 | 7 | 12 |
-| last60d | 2026-08-12 | 0 | 16 | 15 | 2 | 11 | 22 |
-| 90d | 2026-07-13 | 0 | 18 | 18 | 2 | 16 | 32 |
-| last180d | 2026-04-14 | 0 | 24 | 40 | 12 | 38 | 105 |
-| 360d | 2025-10-16 | 0 | 24 | 41 | 14 | 38 | 158 |
-| last720d | 2024-10-21 | 0 | 24 | 41 | 14 | 38 | 175 |
+| 30d | 2026-09-12 | 0 | 15 | 0 | 5 | 0 | 17 |
+| last60d | 2026-08-13 | 0 | 23 | 1 | 12 | 1 | 29 |
+| 90d | 2026-07-14 | 0 | 25 | 1 | 16 | 1 | 40 |
+| last180d | 2026-04-15 | 0 | 36 | 2 | 46 | 4 | 115 |
+| 360d | 2025-10-17 | 0 | 36 | 2 | 48 | 4 | 175 |
+| last720d | 2024-10-22 | 0 | 36 | 2 | 48 | 4 | 204 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for taste-skill lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:37:41Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:49:19Z._
