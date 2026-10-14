@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 [![x-cmd/install — taste-skill Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/taste-skill.svg?lang=zh)](https://x-cmd.com/install/taste-skill)
 
@@ -14,15 +14,15 @@ x install taste-skill
 
 ## 代码洞察
 
-合计: **647** 行代码（覆盖前 5 种语言、共 **44** 个文件）。
+合计: **27,041** 行代码（覆盖前 5 种语言、共 **26** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| JavaScript | 311 | 0 | 63 | 4 |
-| Sh | 239 | 22 | 48 | 3 |
-| Svg | 97 | 0 | 0 | 8 |
-| Markdown | 0 | 5,805 | 1,596 | 28 |
-| Text | 0 | 13 | 0 | 1 |
+| Json | 24,236 | 0 | 0 | 9 |
+| JavaScript | 2,406 | 174 | 71 | 8 |
+| Sh | 251 | 23 | 48 | 3 |
+| Css | 80 | 10 | 10 | 1 |
+| Svg | 68 | 0 | 0 | 5 |
 
 ## 源代码
 
@@ -30,24 +30,37 @@ x install taste-skill
 - **官网**: <https://tasteskill.dev>
 - **许可证**: MIT
 
+## 发布
+
+- **最新版本**: `v2.0.0` (2026-10-13)
+- **最近提交**: 2026-10-13
+- **Release 含资产**: 2 个
+
 ## 流行度
 
-- **Star**: 95,245 · **Fork**: 6,487 · **开放 issue**: 52 · **贡献者**: 16
+- **Star**: 95,695 · **Fork**: 6,512 · **开放 issue**: 52 · **贡献者**: 17
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 36 · **开放 PR**: 2 · **已关闭 issue**: 48 · **开放 issue**: 4 · **提交数**: 204
+- **发布数**: 1 · **已合并 PR**: 43 · **开放 PR**: 0 · **已关闭 issue**: 52 · **开放 issue**: 0 · **提交数**: 215
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 15 | 0 | 5 | 0 | 17 |
-| last60d | 2026-08-14 | 0 | 23 | 1 | 12 | 1 | 29 |
-| 90d | 2026-07-15 | 0 | 25 | 1 | 16 | 1 | 40 |
-| last180d | 2026-04-16 | 0 | 36 | 2 | 46 | 4 | 115 |
-| 360d | 2025-10-18 | 0 | 36 | 2 | 48 | 4 | 175 |
-| last720d | 2024-10-23 | 0 | 36 | 2 | 48 | 4 | 204 |
+| 30d | 2026-09-14 | 1 | 21 | 0 | 5 | 0 | 26 |
+| last60d | 2026-08-15 | 1 | 30 | 0 | 13 | 0 | 38 |
+| 90d | 2026-07-16 | 1 | 30 | 0 | 17 | 0 | 49 |
+| last180d | 2026-04-17 | 1 | 43 | 0 | 49 | 0 | 124 |
+| 360d | 2025-10-19 | 1 | 43 | 0 | 52 | 0 | 184 |
+| last720d | 2024-10-24 | 1 | 43 | 0 | 52 | 0 | 215 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tasteskill-v2-launch-film.mp4](https://github.com/Leonxlnx/taste-skill/releases/download/v2.0.0/tasteskill-v2-launch-film.mp4) | 19.8 MiB | `other` |
+| [tasteskill-v2-poster.png](https://github.com/Leonxlnx/taste-skill/releases/download/v2.0.0/tasteskill-v2-poster.png) | 184.7 KiB | `other` |
 
 ## 改进这些数据
 
@@ -58,4 +71,4 @@ taste-skill 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T06:49:30Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T04:45:51Z._

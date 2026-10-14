@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
 
 [![x-cmd/install — taste-skill Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/taste-skill.svg)](https://x-cmd.com/install/taste-skill)
 
@@ -14,15 +14,15 @@ x install taste-skill
 
 ## Code insight
 
-Total: **647** lines of code across **44** files in the top 5 languages.
+Total: **27,041** lines of code across **26** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 311 | 0 | 63 | 4 |
-| Sh | 239 | 22 | 48 | 3 |
-| Svg | 97 | 0 | 0 | 8 |
-| Markdown | 0 | 5,805 | 1,596 | 28 |
-| Text | 0 | 13 | 0 | 1 |
+| Json | 24,236 | 0 | 0 | 9 |
+| JavaScript | 2,406 | 174 | 71 | 8 |
+| Sh | 251 | 23 | 48 | 3 |
+| Css | 80 | 10 | 10 | 1 |
+| Svg | 68 | 0 | 0 | 5 |
 
 ## Source
 
@@ -30,24 +30,37 @@ Total: **647** lines of code across **44** files in the top 5 languages.
 - **Homepage**: <https://tasteskill.dev>
 - **License**: MIT
 
+## Release
+
+- **Latest**: `v2.0.0` (2026-10-13)
+- **Last commit**: 2026-10-13
+- **Assets in release**: 2
+
 ## Popularity
 
-- **Stars**: 95,245 · **Forks**: 6,487 · **Open issues**: 52 · **Contributors**: 16
+- **Stars**: 95,695 · **Forks**: 6,512 · **Open issues**: 52 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 36 · **Open PRs**: 2 · **Closed issues**: 48 · **Open issues**: 4 · **Commits**: 204
+- **Releases**: 1 · **Merged PRs**: 43 · **Open PRs**: 0 · **Closed issues**: 52 · **Open issues**: 0 · **Commits**: 215
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 15 | 0 | 5 | 0 | 17 |
-| last60d | 2026-08-14 | 0 | 23 | 1 | 12 | 1 | 29 |
-| 90d | 2026-07-15 | 0 | 25 | 1 | 16 | 1 | 40 |
-| last180d | 2026-04-16 | 0 | 36 | 2 | 46 | 4 | 115 |
-| 360d | 2025-10-18 | 0 | 36 | 2 | 48 | 4 | 175 |
-| last720d | 2024-10-23 | 0 | 36 | 2 | 48 | 4 | 204 |
+| 30d | 2026-09-14 | 1 | 21 | 0 | 5 | 0 | 26 |
+| last60d | 2026-08-15 | 1 | 30 | 0 | 13 | 0 | 38 |
+| 90d | 2026-07-16 | 1 | 30 | 0 | 17 | 0 | 49 |
+| last180d | 2026-04-17 | 1 | 43 | 0 | 49 | 0 | 124 |
+| 360d | 2025-10-19 | 1 | 43 | 0 | 52 | 0 | 184 |
+| last720d | 2024-10-24 | 1 | 43 | 0 | 52 | 0 | 215 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tasteskill-v2-launch-film.mp4](https://github.com/Leonxlnx/taste-skill/releases/download/v2.0.0/tasteskill-v2-launch-film.mp4) | 19.8 MiB | `other` |
+| [tasteskill-v2-poster.png](https://github.com/Leonxlnx/taste-skill/releases/download/v2.0.0/tasteskill-v2-poster.png) | 184.7 KiB | `other` |
 
 ## Improve this data
 
@@ -58,4 +71,4 @@ Install metadata for taste-skill lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:49:30Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:45:51Z._
