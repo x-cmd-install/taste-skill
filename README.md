@@ -14,12 +14,12 @@ x install taste-skill
 
 ## Code insight
 
-Total: **31,520** lines of code across **32** files in the top 5 languages.
+Total: **31,622** lines of code across **33** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 27,187 | 0 | 0 | 10 |
-| JavaScript | 3,899 | 437 | 105 | 13 |
+| JavaScript | 4,001 | 441 | 110 | 14 |
 | Css | 265 | 51 | 33 | 3 |
 | Sh | 101 | 19 | 15 | 1 |
 | Svg | 68 | 0 | 0 | 5 |
@@ -32,27 +32,27 @@ Total: **31,520** lines of code across **32** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.1.3` (2026-10-19)
-- **Last commit**: 2026-10-19
+- **Latest**: `v2.1.4` (2026-10-20)
+- **Last commit**: 2026-10-20
 
 ## Popularity
 
-- **Stars**: 99,452 · **Forks**: 6,766 · **Open issues**: 55 · **Contributors**: 17
+- **Stars**: 99,975 · **Forks**: 6,778 · **Open issues**: 57 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 48 · **Open PRs**: 2 · **Closed issues**: 55 · **Open issues**: 0 · **Commits**: 241
+- **Releases**: 6 · **Merged PRs**: 50 · **Open PRs**: 1 · **Closed issues**: 56 · **Open issues**: 1 · **Commits**: 245
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 5 | 24 | 1 | 5 | 0 | 43 |
-| last60d | 2026-08-21 | 5 | 29 | 2 | 14 | 0 | 52 |
-| 90d | 2026-07-22 | 5 | 35 | 2 | 19 | 0 | 63 |
-| last180d | 2026-04-23 | 5 | 48 | 2 | 50 | 0 | 133 |
-| 360d | 2025-10-25 | 5 | 48 | 2 | 55 | 0 | 205 |
-| last720d | 2024-10-30 | 5 | 48 | 2 | 55 | 0 | 241 |
+| 30d | 2026-09-21 | 6 | 26 | 0 | 5 | 1 | 45 |
+| last60d | 2026-08-22 | 6 | 30 | 1 | 15 | 1 | 54 |
+| 90d | 2026-07-23 | 6 | 37 | 1 | 19 | 1 | 65 |
+| last180d | 2026-04-24 | 6 | 50 | 1 | 51 | 1 | 135 |
+| 360d | 2025-10-26 | 6 | 50 | 1 | 56 | 1 | 207 |
+| last720d | 2024-10-31 | 6 | 50 | 1 | 56 | 1 | 245 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for taste-skill lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:41:51Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:34:09Z._
