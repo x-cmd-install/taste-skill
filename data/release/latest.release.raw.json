@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/Leonxlnx/taste-skill/releases/418926123",
-  "assets_url": "https://api.github.com/repos/Leonxlnx/taste-skill/releases/418926123/assets",
-  "upload_url": "https://uploads.github.com/repos/Leonxlnx/taste-skill/releases/418926123/assets{?name,label}",
-  "html_url": "https://github.com/Leonxlnx/taste-skill/releases/tag/v2.1.4",
-  "id": 418926123,
+  "url": "https://api.github.com/repos/Leonxlnx/taste-skill/releases/423046682",
+  "assets_url": "https://api.github.com/repos/Leonxlnx/taste-skill/releases/423046682/assets",
+  "upload_url": "https://uploads.github.com/repos/Leonxlnx/taste-skill/releases/423046682/assets{?name,label}",
+  "html_url": "https://github.com/Leonxlnx/taste-skill/releases/tag/v2.1.5",
+  "id": 423046682,
   "author": {
     "login": "Leonxlnx",
     "id": 219127460,
@@ -25,26 +25,26 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORUQ5b84Y-E4r",
-  "tag_name": "v2.1.4",
-  "target_commitish": "6010f91a9935f1c167dfc500fb1a475681892e6b",
-  "name": "tasteskill v2.1.4",
+  "node_id": "RE_kwDORUQ5b84ZNy4a",
+  "tag_name": "v2.1.5",
+  "target_commitish": "main",
+  "name": "tasteskill v2.1.5",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-20T18:38:06Z",
-  "updated_at": "2026-10-20T22:04:30Z",
-  "published_at": "2026-10-20T22:04:30Z",
+  "created_at": "2026-10-24T23:42:19Z",
+  "updated_at": "2026-10-24T23:44:17Z",
+  "published_at": "2026-10-24T23:44:17Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/Leonxlnx/taste-skill/tarball/v2.1.4",
-  "zipball_url": "https://api.github.com/repos/Leonxlnx/taste-skill/zipball/v2.1.4",
-  "body": "This release makes the inspector's browser profiles safe when several runs go at once ([#157](https://github.com/Leonxlnx/taste-skill/issues/157), [#158](https://github.com/Leonxlnx/taste-skill/pull/158), [#159](https://github.com/Leonxlnx/taste-skill/pull/159)). The rules of `design-taste-frontend` are unchanged; only `scripts/lib/cdp.mjs` changed.\n\n- **Fix: one inspector run could delete the browser profile of another run that was still going.** Chrome keeps no `lockfile` on macOS and Linux, so the sweep added in 2.1.0 judged a profile unused by its age alone. A second run started during a long one could then pull that run's profile away. Thanks to @t4sh for the report and the fix.\n- **Leftover profiles are cleaned up again, safely.** Every profile now carries `taste-skill-owner.json` with the machine and the process IDs of the run and its Chrome. A later run removes a profile left by a killed run only when that file names this machine and neither process is alive. A profile without the file is never touched.\n\nProfiles left by earlier versions are not removed automatically. To clear them, delete the `ad-chrome-*` folders in your temp folder (or in `TASTE_SKILL_TMP`).\n\nUpdate:\n\n```bash\nnpx skills add https://github.com/Leonxlnx/taste-skill --skill \"design-taste-frontend\"\n```\n\nClaude Code plugin users: `/plugin update`.\n",
+  "tarball_url": "https://api.github.com/repos/Leonxlnx/taste-skill/tarball/v2.1.5",
+  "zipball_url": "https://api.github.com/repos/Leonxlnx/taste-skill/zipball/v2.1.5",
+  "body": "Fixes from the community. Thanks to everyone who reported and sent them.\n\n- **Safe text in charts and split headings** (#160, #169, thanks @jcastilla89 and @Pablolakotek): `charts.js` and the `Stage.split` fallback escape the text they insert, so a label or heading from user data can no longer inject markup.\n- **No lost screenshots when two widths share a class** (#162, #165, thanks @nosawavey-spec and @ketpatil77).\n- **Keyboard and accessible names** (#170, thanks @MrBinnacle): every control works from the keyboard and has an accessible name.\n- **The italic faces load** (#161, fix from #166, thanks @nosawavey-spec and @ketpatil77): Boska, Erode and Sentient request their italic weight.\n- **`edge-text` no longer fails ellipsised lines** (#156, thanks @shoctroper).\n- **Inspect the production build** (#171, thanks @lilozzy): the Gate says so, and the inspector warns when it is looking at a dev server.\n- **The redraw rule names its third reason** (#163, thanks @Tsury).\n- CI also checks that every text file is clean UTF-8.\n\n```bash\nnpx skills add https://github.com/Leonxlnx/taste-skill --skill \"design-taste-frontend\"\n```\n\nClaude Code plugin users: `/plugin update`.\n",
   "reactions": {
-    "url": "https://api.github.com/repos/Leonxlnx/taste-skill/releases/418926123/reactions",
-    "total_count": 2,
-    "+1": 2,
+    "url": "https://api.github.com/repos/Leonxlnx/taste-skill/releases/423046682/reactions",
+    "total_count": 1,
+    "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
@@ -53,5 +53,5 @@
     "rocket": 0,
     "eyes": 0
   },
-  "mentions_count": 1
+  "mentions_count": 8
 }
