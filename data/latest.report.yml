@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.5"
   latestRelease: "v2.1.5"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T05:40:50Z
+  collectedAt: 2026-10-30T05:41:14Z
 timeline:
   created: 2026-02-19
   lastCommit: 2026-10-24
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-10-24
   lastPrerelease: 
 popularity:
-  star: 104732
-  watcher: 290
-  fork: 7083
+  star: 105717
+  watcher: 294
+  fork: 7143
   release: 7
   contributor: 19
-  pullRequest: 98
+  pullRequest: 100
   issue: 68
 language:
   JavaScript: 396410
@@ -29,63 +29,63 @@ language:
 totalBytes: 424001
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 7
     mergedPR: 25
-    openPR: 0
+    openPR: 2
     closedIssue: 12
     openIssue: 5
     commit: 47
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 7
     mergedPR: 33
-    openPR: 0
+    openPR: 2
     closedIssue: 20
     openIssue: 5
     commit: 59
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 7
     mergedPR: 41
-    openPR: 0
+    openPR: 2
     closedIssue: 25
     openIssue: 5
     commit: 69
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 7
     mergedPR: 54
-    openPR: 0
+    openPR: 2
     closedIssue: 53
     openIssue: 5
     commit: 126
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 7
     mergedPR: 54
-    openPR: 0
+    openPR: 2
     closedIssue: 63
     openIssue: 5
     commit: 212
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 7
     mergedPR: 54
-    openPR: 0
+    openPR: 2
     closedIssue: 63
     openIssue: 5
     commit: 254
 total:
   release: 7
   mergedPR: 54
-  openPR: 0
+  openPR: 2
   closedIssue: 63
   openIssue: 5
   commit: 254
 ---
 path: /home/runner/.x-repo/github.com/Leonxlnx/taste-skill
-collectedAt: 2026-10-29T05:40:54Z
+collectedAt: 2026-10-30T05:41:18Z
 loc:
   Json:
     code: 27187
