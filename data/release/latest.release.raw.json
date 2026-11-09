@@ -43,14 +43,14 @@
   "body": "What a 44-site test of 2.5.0 showed, fixed: builds now iterate until the checker is clean, every page moves, products without photographs are shown in photographs, palettes fit the trade, the copy gets a voice of its own, and nothing lies on anything else on a phone. The install name did not change.\n\n- **A finish gate:** `scripts/gate.mjs` runs the checker, the layout check and a copy lint, and a build is not done until its last line reads `GATE: PASS` (three rounds, five waivers with reasons at most). In Claude Code it runs as a Stop hook from the skill itself. It never traps an agent: a question to the user costs no round, and `gate.mjs --done` ends a build at the user's word.\n- **Motion on every page:** every hero enters once on load, and every page carries one or two scroll moments. Cafes, shops and services get photo- and type-led ones (new `photo-chapters`, a film look for `picture-develops`); shader effects stay on tech pages.\n- **Photographs over renders:** a product without the client's pictures is shown in licensed stand-in photographs (`photos.mjs search`: Wikimedia Commons, CC0, CC BY, CC BY-SA and public domain only). A 3D render only when the brief asks for one.\n- **Palettes by trade:** `start.mjs deal --trade cafe` deals palettes made for that trade, so two cafes no longer start alike. Eight new place palettes.\n- **A copy layer:** a fact sheet, a voice card, one register and the moves for each part of the page, plus `copy-lint.mjs`, which counts the tells of model-written copy. The gate runs it.\n- **Accessibility, forms and metadata:** accessible names, labels, the focus ring, heading order, share tags and real form sends are checked.\n- **Phones:** sections grow with their content instead of lying over the next one, 44px tap targets, a phone action bar that waits until the hero's button has scrolled away, and new `collide`, `tap-size` and 320px checks.\n- **A kit that passes its own checks:** all 11 hero layouts, the starter and two in-page moment models pass the checker and the layout check at 1440 and 390 (`tests/kit-clean.mjs`).\n\nUpdate with the same command you installed with, for example:\n\n```\nnpx skills add https://github.com/Leonxlnx/taste-skill --skill \"design-taste-frontend\"\n```\n\nor, as a Claude Code plugin, `/plugin marketplace update taste-skill` and then `/plugin install taste-skill@taste-skill`.\n\nFull list in [CHANGELOG.md](https://github.com/Leonxlnx/taste-skill/blob/main/CHANGELOG.md). Thanks to the community contributors named there, whose pull requests went into 2.5.x.\n",
   "reactions": {
     "url": "https://api.github.com/repos/Leonxlnx/taste-skill/releases/437565978/reactions",
-    "total_count": 2,
-    "+1": 2,
+    "total_count": 5,
+    "+1": 4,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
-    "eyes": 0
+    "eyes": 1
   }
 }
